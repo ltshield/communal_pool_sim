@@ -1,4 +1,4 @@
-# networks_of_poverty
+# communal_pool_sim
 ## **What is it?**
 
 This is a project to simulate the monetary trends of populations who suffer from predatory lending when living close to the poverty line. We hope that this simulation will enable researchers to explore the feasibility of an intervention for real-life populations in situations akin to the one represented here. It is not intended to serve as conclusive evidence of said intervention's effectiveness or as an irrefutable indicator of the results of its real-world application.
